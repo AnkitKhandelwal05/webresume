@@ -1,0 +1,96 @@
+hr{border-top-style: dotted;
+    color: #e9ad88;
+    border-top-width: 7px;}
+.icon{
+  width:20%;
+  margin: auto;
+}
+.btn {
+    background: #fc6303;
+    background-image: -webkit-linear-gradient(top, #fc6303, #fc6303);
+    background-image: -moz-linear-gradient(top, #fc6303, #fc6303);
+    background-image: -ms-linear-gradient(top, #fc6303, #fc6303);
+    background-image: -o-linear-gradient(top, #fc6303,#fc6303);
+    background-image: linear-gradient(to bottom, #fc6303, #fc6303);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+  .contact{
+    text-align: justify;
+    margin-left: 50px;
+  }
+  .fa {
+    padding: 20px;
+  text-align: center;
+    margin: 5px 2px;
+    font-size: 30px;
+    width: 50px;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-pinterest {
+    background: #cb2027;
+    color: white;
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  .fa-snapchat-ghost {
+    background: #fffc00;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
+  .fa-skype {
+    background: #00aff0;
+    color: white;
+  }
+  .fa:hover {
+      opacity: 0.9;
+  }
+ 
+.image{
+  z-index: 0;
+
+}
+.text{
+  z-index: 1;
+  margin-top: -150px;
+}
