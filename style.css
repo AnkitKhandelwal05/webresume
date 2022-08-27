@@ -1,8 +1,14 @@
 hr{border-top-style: dotted;
     color: #e9ad88;
     border-top-width: 7px;}
-a{ color: #e9ad88;
-}
+  a{
+    color: #e9ad88;
+  }
+  .image{
+    border-radius: 20px;
+    border-color: white;
+    border-width: 20%;
+  }
 .icon{
   width:20%;
   margin: auto;
@@ -152,4 +158,7 @@ a{ color: #e9ad88;
     top: 15px;
     right: 35px;
   }
+}
+.thumb{
+  size: 10%;
 }
