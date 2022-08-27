@@ -137,8 +137,9 @@ hr{border-top-style: dotted;
 .overlay .closebtn {
   position: absolute;
   top: 5px;
-  right: 45px;
+  right: 15px;
   font-size: 60px;
+  z-index: 2;
 }
 
 /* When the height of the screen is less than 450 pixels, change the font-size of the links and position the close button again, so they don't overlap */
